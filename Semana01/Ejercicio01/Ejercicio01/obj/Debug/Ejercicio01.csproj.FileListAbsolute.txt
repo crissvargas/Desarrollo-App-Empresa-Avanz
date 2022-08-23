@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\ASUS\source\repos\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\ASUS\source\repos\Semana01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
