@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\bin\Debug\Data.dll
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\bin\Debug\Data.pdb
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\bin\Debug\Entity.dll
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\bin\Debug\Entity.pdb
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\obj\Debug\Data.dll
+C:\Users\ASUS\source\repos\Semana05_CRUD_WPF\Data\obj\Debug\Data.pdb
