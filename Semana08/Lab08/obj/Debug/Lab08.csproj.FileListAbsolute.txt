@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\bin\Debug\Lab08.exe
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\obj\Debug\Lab08.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\obj\Debug\Lab08.exe
+C:\Users\ASUS\source\repos\AppsEmpre08\Lab08\obj\Debug\Lab08.pdb
