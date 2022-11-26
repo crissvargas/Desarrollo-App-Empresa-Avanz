@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BjAyR898AXNu8KpmVP9idLKJCCHDztZIwcFxlSYzi8M3NN4J8HluCtJUtpoPZqHlkJW1Zan2E2UU/0pHYChwag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\APITecsup2022-hugo_torrico\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

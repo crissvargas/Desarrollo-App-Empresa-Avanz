@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\Infraestructure.dll.config
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\Domain.dll
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.Migrations.v1_Create_People.resources
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.Migrations.ProductMigration.resources
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.Migrations.tableProducto.resources
+C:\Users\ASUS\source\repos\APITecsup2022-hugo_torrico\Infraestructure\obj\Debug\Infraestructure.Migrations.lastMirgration.resources
